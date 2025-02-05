@@ -13,6 +13,9 @@
 ### Project Overview
 This project analyzes shopping trends using MsExcel, SQL and Power Bi Tools, in uncovering insights into customer behavior and sales patterns. The analysis explores specific aspects such as seasonal trends, product category trends, and also demographic trends to provide insights for making informed data-driven business decisions.
 
+![ShoppingTrends Dashboard Screenshot](https://github.com/user-attachments/assets/2cfbbca8-e9c2-415a-9320-9efa477cb9d3)
+
+
 ### Data Sources
 
 Shopping Trend Data: The primary dataset used for this analysis was gotten from Kaggle. 
