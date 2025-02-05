@@ -33,7 +33,7 @@ The dataset did not require cleaning as it was a clean data without duplicates, 
 However, I separated the dataset into two different excel worksheets to make it easier to manage, analyze and export to SQL for further analysis (Data Segmentation/Partitioning)
 
 ### Exploratory Data Analysis
-This involved exploring the data to answer key questions, such as:
+Exploring the dataset to answer key questions, such as:
 
 - What the top selling product was?
 - What season had the most revenue across all different locations?
